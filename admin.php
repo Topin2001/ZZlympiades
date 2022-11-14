@@ -31,4 +31,31 @@
  </form>
  </div>
  </body>
+ <!-- Notes to myself:
+    - J'ai toujours pas rajouté tous les users dans la database....
+    - c'est chiant.......
+    - bon je le ferai après...
+    - pour l'instant je note mes trucs içi
+    - usernames:    -> le_Y_cest_le_S
+                    -> admin
+                    -> user
+                    -> user2
+                    -> admin7
+                    -> kanté
+                    -> user69
+                    -> ps4
+                    -> user420
+                    -> user1337
+
+    - passwords:    -> v3ry_s3cur3_p4ssw0rd
+                    -> 12345678
+                    -> admin
+                    -> i_love_pizza
+                    -> cacapipimdr
+                    -> 1234haha
+                    -> 0987654321
+                    -> this_is_a_password
+                    -> password
+                    -> naruto
+-->
 </html>
